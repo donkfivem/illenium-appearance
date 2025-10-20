@@ -2,9 +2,15 @@
 
 A replacement for clothing resources for various frameworks
 
+**Fork with custom UI design by [donkfivem](https://github.com/donkfivem)**
+
 <div align='center'><h1><a href='https://docs.illenium.dev/free-resources/illenium-appearance/installation/'>Documentation</a></h3></div>
 <br>
 
+## Redesign Preview
+<img src="https://r2.fivemanage.com/FRw2ddkmLRukwaZQAXbys/illenium.png" alt="Redesigned UI" />
+
+## Original Screenshots
 <img src="https://i.ibb.co/fVR2hCJX/Ekran-g-r-nt-s-2025-06-11-211556.png" alt="" />
 <img src="https://i.ibb.co/RpyrN4p0/Ekran-g-r-nt-s-2025-06-11-211604.png" alt="" />
 <img src="https://i.ibb.co/0pbm1Rt8/Ekran-g-r-nt-s-2025-06-11-211612.png" alt="" />
